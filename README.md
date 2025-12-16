@@ -102,9 +102,4 @@ I am a BS Computer Science graduate and a passionate **Full-Stack Developer** wi
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=wasifwasi&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
