@@ -1,8 +1,12 @@
 <div align="center">
 
-  # 👋 Hi there, I’m Wasif Rehman
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wasif+Rehman;Full+Stack+Developer;MERN+Stack+Specialist;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
 
-  ### Full-Stack Developer | MERN Stack Specialist | AI Enthusiast
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=wasifwasi&label=Profile%20Views&color=0e75b6&style=flat" alt="wasifwasi" />
+  </p>
 
   <p align="center">
     <i>Building scalable web applications and integrating intelligent AI solutions.</i>
@@ -105,5 +109,3 @@ I am a BS Computer Science graduate and a passionate **Full-Stack Developer** wi
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
