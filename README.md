@@ -98,7 +98,6 @@ I am a BS Computer Science graduate and a passionate **Full-Stack Developer** wi
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasifwasi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifwasi&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="languages graph" />
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=wasifwasi&theme=tokyonight&hide_border=true" alt="streak graph" />
