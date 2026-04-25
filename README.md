@@ -99,7 +99,6 @@ I am a BS Computer Science graduate and a passionate **Full-Stack Developer** wi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifwasi&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="languages graph" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=wasifwasi&theme=tokyonight&hide_border=true" alt="streak graph" />
+  
 </div>
 </div>
