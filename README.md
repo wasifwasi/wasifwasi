@@ -31,14 +31,8 @@
     <a href="https://x.com/WasifRe89411934">
       <img src="https://img.shields.io/badge/X-141414?style=flat-square&logo=x&logoColor=FB4D0F" alt="X"/>
     </a>
-    <a href="https://www.instagram.com/les_troll_them">
-      <img src="https://img.shields.io/badge/Instagram-141414?style=flat-square&logo=instagram&logoColor=FB4D0F" alt="Instagram"/>
-    </a>
     <a href="https://youtube.com/@semicolon5164">
       <img src="https://img.shields.io/badge/YouTube-141414?style=flat-square&logo=youtube&logoColor=FB4D0F" alt="YouTube"/>
-    </a>
-    <a href="https://bsky.app/profile/wasi97.bsky.social">
-      <img src="https://img.shields.io/badge/Bluesky-141414?style=flat-square&logo=bluesky&logoColor=FB4D0F" alt="Bluesky"/>
     </a>
   </p>
 
