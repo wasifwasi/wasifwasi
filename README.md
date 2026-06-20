@@ -55,14 +55,15 @@ Built with **Next.js**, **Three.js**, **react-konva**, and **Zustand** — a 2D 
 
 ## Stack
 
-**Daily:** TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · MongoDB · Prisma
-**Mobile:** React Native · Expo
-**AI:** Anthropic · Gemini · Groq · OpenAI
+**Daily:** TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · MongoDB · Prisma<br/>
+**Mobile:** React Native · Expo<br/>
+**AI:** Anthropic · Gemini · Groq · OpenAI<br/>
 **Infra:** Supabase · Firebase · AWS · Vercel
 
 <br/>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wasifwasi&show_icons=true&hide_border=true&title_color=FB4D0F&icon_color=FB4D0F&text_color=F2F2F2&bg_color=141414" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifwasi&layout=compact&hide_border=true&title_color=FB4D0F&text_color=F2F2F2&bg_color=141414&langs_count=6" alt="top langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wasifwasi&show_icons=true&hide_border=true&cache_seconds=86400&title_color=FB4D0F&icon_color=FB4D0F&text_color=F2F2F2&bg_color=141414" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifwasi&layout=compact&hide_border=true&cache_seconds=86400&title_color=FB4D0F&text_color=F2F2F2&bg_color=141414&langs_count=6" alt="top langs" />
 </div>
+
