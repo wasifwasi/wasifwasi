@@ -1,10 +1,10 @@
 <!-- ============================== HERO ============================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:FB4D0F,100:141414&height=200&section=header&text=Wasif%20Rehman&fontSize=60&fontColor=F2F2F2&fontAlignY=38&desc=Solution%20Architect%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:FB4D0F,100:141414&height=220&section=header&text=Wasif%20Rehman&fontSize=62&fontColor=F2F2F2&fontAlignY=36&desc=Solution%20Architect%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI%20Systems&descAlignY=56&descSize=17&animation=fadeIn" width="100%" alt="header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bai+Jamjuree&weight=600&size=22&duration=3000&pause=800&color=FB4D0F&center=true&vCenter=true&width=720&lines=Designing+systems+end-to-end.;Architecting+scalable+web%2C+mobile+%26+AI+platforms.;From+real-time+systems+to+AI-powered+automation.;Turning+ambiguous+requirements+into+production+software." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bai+Jamjuree&weight=600&size=22&duration=3000&pause=800&color=FB4D0F&center=true&vCenter=true&width=740&lines=Designing+systems+end-to-end.;Architecting+scalable+web%2C+mobile+%26+AI+platforms.;From+real-time+systems+to+AI-powered+automation.;Turning+ambiguous+requirements+into+production+software." alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -51,7 +51,10 @@
 
 I lead and build projects spanning **AI-powered automation**, real-time platforms, 3D experiences, and cross-platform mobile apps — turning ambiguous requirements into scalable, production-grade solutions that drive real business results. From luxury e-commerce and recruitment portals to AI voice apps and business-automation SaaS.
 
-🌐 **Live portfolio →** [**portfolio-wod3.vercel.app**](https://portfolio-wod3.vercel.app/)
+- 🧩 &nbsp; I architect systems, not just features — system design, data modeling, multi-tenant platforms, payments & auth.
+- 🤖 &nbsp; I ship AI into products — Anthropic, Gemini & Groq across web and mobile.
+- ⚡ &nbsp; I care about real-time, performance, and clean, maintainable code.
+- 🌐 &nbsp; **Live portfolio →** [**portfolio-wod3.vercel.app**](https://portfolio-wod3.vercel.app/)
 
 ```ts
 const wasif = {
