@@ -1,10 +1,10 @@
 <!-- ============================== HERO ============================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:FB4D0F,100:141414&height=200&section=header&text=Wasif%20Rehman&fontSize=60&fontColor=F2F2F2&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20AI%20Integration&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:FB4D0F,100:141414&height=200&section=header&text=Wasif%20Rehman&fontSize=60&fontColor=F2F2F2&fontAlignY=38&desc=Solution%20Architect%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bai+Jamjuree&weight=600&size=22&duration=3000&pause=800&color=FB4D0F&center=true&vCenter=true&width=720&lines=Building+scalable+web+applications.;Embedding+intelligent+AI+into+modern+interfaces.;From+voice+AI+widgets+to+real-time+platforms.;Shipping+production-grade+products+end-to-end." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bai+Jamjuree&weight=600&size=22&duration=3000&pause=800&color=FB4D0F&center=true&vCenter=true&width=720&lines=Designing+systems+end-to-end.;Architecting+scalable+web%2C+mobile+%26+AI+platforms.;From+real-time+systems+to+AI-powered+automation.;Turning+ambiguous+requirements+into+production+software." alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -47,18 +47,19 @@
 
 ## ⌘ &nbsp; About
 
-> **Full-Stack Developer** specializing in the **MERN Stack** and **Next.js**, with a focus on building scalable, high-performance web applications and embedding **AI-powered features** into modern interfaces.
+> **Solution Architect** who designs and ships complete systems end-to-end — from architecture, API design, and data modeling to **React / Next.js** frontends, **Node.js / NestJS** backends, and cloud infrastructure.
 
-I deliver professional digital solutions that drive real business results — from luxury e-commerce platforms and recruitment portals to AI voice apps and business-automation SaaS.
+I lead and build projects spanning **AI-powered automation**, real-time platforms, 3D experiences, and cross-platform mobile apps — turning ambiguous requirements into scalable, production-grade solutions that drive real business results. From luxury e-commerce and recruitment portals to AI voice apps and business-automation SaaS.
 
 🌐 **Live portfolio →** [**portfolio-wod3.vercel.app**](https://portfolio-wod3.vercel.app/)
 
 ```ts
 const wasif = {
-  role:      "Full-Stack Developer",
-  stack:     ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "MongoDB", "PostgreSQL"],
-  ai:        ["OpenAI", "Gemini", "Groq", "TensorFlow", "PyTorch"],
-  mobile:    ["React Native", "Expo"],
-  focus:     "Scalable architecture · Clean code · Real-time systems",
-  currently: "Shipping AI-powered SaaS & e-commerce products",
+  role:         "Solution Architect",
+  architecture: ["System design", "API design", "Data modeling", "Multi-tenant", "Payments & auth"],
+  stack:        ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "PostgreSQL", "MongoDB", "Prisma", "Supabase"],
+  ai:           ["Anthropic", "Gemini", "Groq", "OpenAI", "TensorFlow", "PyTorch"],
+  mobile:       ["React Native", "Expo"],
+  focus:        "Scalable architecture · Real-time systems · AI integration · Clean code",
+  currently:    "Leading & shipping AI-powered SaaS, platforms & e-commerce products",
 };
