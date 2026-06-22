@@ -35,7 +35,7 @@ Most of my work lives on my portfolio rather than here — **[portfolio-wod3.ver
 <!-- ============================== FEATURED PROJECT ============================== -->
 <div align="center">
 
-### ✦ &nbsp; homeStructure &nbsp; ✦
+### ✦ &nbsp; HomeStructure &nbsp; ✦
 
 </div>
 
